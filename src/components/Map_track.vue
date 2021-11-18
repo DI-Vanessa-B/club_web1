@@ -50,8 +50,8 @@ export default {
           "line-cap": "round",
         },
         paint: {
-          "line-color": "#888",
-          "line-width": 8,
+          "line-color": "#ff00ff",
+          "line-width": 4,
         },
       });
     });
