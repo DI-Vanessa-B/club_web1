@@ -17,7 +17,7 @@
 import Map from '../components/Map_track.vue'
 
 export default {
-  name: "Home",
+  name: "About",
   components: {
     Club,
   },
