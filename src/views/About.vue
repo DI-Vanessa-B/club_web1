@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import Map from '../components/Map_track.vue'
+import Club from '../components/Club.vue'
 
 export default {
   name: "About",
