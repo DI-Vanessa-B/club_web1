@@ -23,7 +23,7 @@ export default {
       container: this.$refs.container, // container ID
       style: "mapbox://styles/digitalideationvaneb/ckvwd9hz20or214kiunsr99ht", // My custom style
       center: [8.309770447369441, 47.050188260908826],
-      zoom: 14, // starting zoom
+      zoom: 15, // starting zoom
     });
 
     // Displaying a GPX track
