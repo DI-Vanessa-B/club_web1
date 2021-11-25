@@ -14,6 +14,10 @@
         Studio Web &amp; Mobile 2021
       </p>
     </div>
+    <div id="photo">
+      <img src="../assets/Groupphoto.jpg" alt="Groupphoto">
+    </div>
+
   </div>
 </template>
 
@@ -28,6 +32,13 @@
   margin: 10%;
   padding: 5%;
   height: 66vh;
+}
+#photo {
+  display: flex;
+  flex-direction: row;
+  height: 50vh;
+  margin-top: 66vh;
+  margin-left: -50vh;
 }
 
 .info {
